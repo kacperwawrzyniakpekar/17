@@ -9,9 +9,9 @@
 </head>
 <frameset rows="300,*">
     <frameset cols="30%,70%">
-        <frame src="MENU_PIN.HTML" name="MENU_PIN.HTML">
-        <frame src="WITAM.HTML" name="OKNO2">
+        <frame src="MENU_PIN.html" name="MENU_PIN.html">
+        <frame src="WITAM.html" name="OKNO2">
     </frameset>
-    <frame src="MENU_POZ.HTML" name="OKNO3" scrolling="no" noresize>
+    <frame src="MENU_POZ.html" name="OKNO3" scrolling="no" noresize>
 </frameset>
 </html>
